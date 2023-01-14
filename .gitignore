@@ -1,0 +1,12 @@
+data/
+visuals/data/
+en-US-10-1.bdic
+spark-warehouse
+old/
+geckodriver.log
+code/iterative_coding/
+playground/train_data.pkl
+playground/article_metadata.csv
+gs_score.csv
+
+
