@@ -2,7 +2,7 @@
 
 This is the code repository to recreate the analysis from our paper Webonization of Wikipedia: Characterization Wikipedia Linking on the Web''.
 
-The full dataset is available on Zenodo (link here).
+The full dataset is available on Zenodo [here](https://zenodo.org/).
 
 ### Dataset cleaning
 This set of files has some starter code to work with Web2Wiki and process it. In particular, we first extract Wikilinks (extract_wikilinks) from the full dump, then merge them (merge_wikilinks.py) and clean them (clean_links.py). We then extract language specific sharing through the language_shares.py file.
@@ -17,12 +17,10 @@ For the where analysis we have a few notebooks. First in the 'where articles inv
 
 We also have the file 'where and where.ipynb'. This file explores how different types of websites invoke Wikipedia differently.j
 
-
 ### Why
-For the Why analysis, we initially went through a series of steps of iterative coding. This required sampling articles from the Web2Wiki corpus. To sample the articles 
+For the Why analysis, we initially went through a series of steps of iterative coding. This required sampling articles from the Web2Wiki corpus. We have the code used for sampling the articles in the Why folder.
 
 When going through the iterative coding, we often times found the visual cues of the Wikipedia link to be a good indicator for why the link was present. We operationalized this in the screenshots folder (code/screenshots/). This code uses Selenium to highlight the element around a Wikipedia link and screenshots them. (INCLUDE AN EXAMPLE).
-
 
 ## Additional content
 In the visuals, we also include some additional visuals that didn't make it into the final paper that sumamrize some elements of the multilingual aspects of Web2Wiki. 
