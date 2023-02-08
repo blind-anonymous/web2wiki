@@ -1,3 +1,8 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 # The Webonization of Wikipedia
 
 This is the code repository to recreate the analysis from our paper Webonization of Wikipedia: Characterization Wikipedia Linking on the Web''.
@@ -5,7 +10,7 @@ This is the code repository to recreate the analysis from our paper Webonization
 The full dataset is available on Zenodo [here](https://zenodo.org/).
 
 ### Dataset cleaning
-This set of files has some starter code to work with Web2Wiki and process it. In particular, we first extract Wikilinks (extract_wikilinks) from the full dump, then merge them ($\texttt{merge_wikilinks.py}$) and clean them (clean_links.py). We then extract language specific sharing through the language_shares.py file.
+This set of files has some starter code to work with Web2Wiki and process it. In particular, we first extract Wikilinks (extract_wikilinks) from the full dump, then merge them (\texttt{merge_wikilinks.py}) and clean them (clean_links.py). We then extract language specific sharing through the language_shares.py file.
 
 We additionally add some code in structural features which processes the original dumps to get structural data surrounding the links. This was used in the Where section of the analysis to understand where within the webpage a link is shared. 
 
