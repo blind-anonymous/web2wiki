@@ -9,8 +9,7 @@ This set of files has some starter code to work with Web2Wiki and process it. In
 
 We additionally add some code in structural features which processes the original dumps to get structural data surrounding the links. This was used in the Where section of the analysis to understand where within the webpage a link is shared. 
 
-### What
-
+### What
 This folder includes a long Jupyter notebook that re-runs the analysis conducted in the paper. The ORES topics can be downloaded [here](https://figshare.com/articles/dataset/Topics_for_each_Wikipedia_Article_across_Languages/12127434).
 
 ### Where
