@@ -1,6 +1,6 @@
 # The Webonization of Wikipedia
 
-This is the code repository to recreate the analysis from our paper Webonization of Wikipedia: Characterization Wikipedia Linking on the Web''.
+This is the code repository to recreate the analysis from our paper ```Webonization of Wikipedia: Characterization Wikipedia Linking on the Web```.
 
 The full dataset is available on Zenodo [here](https://zenodo.org/).
 
