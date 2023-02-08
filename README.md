@@ -20,7 +20,7 @@ We also have the file 'where and where.ipynb'. This file explores how different 
 ### Why
 For the Why analysis, we initially went through a series of steps of iterative coding. This required sampling articles from the Web2Wiki corpus. We have the code used for sampling the articles in the Why folder.
 
-When going through the iterative coding, we often times found the visual cues of the Wikipedia link to be a good indicator for why the link was present. We operationalized this in the screenshots folder (code/screenshots/). This code uses Selenium to highlight the element around a Wikipedia link and screenshots them. (INCLUDE AN EXAMPLE).
+When going through the iterative coding, we often times found the visual cues of the Wikipedia link to be a good indicator for why the link was present. We operationalized this in the screenshots folder (code/screenshots/). This code uses Selenium to highlight the element around a Wikipedia link and screenshots them. ![Here](https://i.ibb.co/y6QSdTS/8-clean.png).
 
 ## Additional content
 In the visuals, we also include some additional visuals that didn't make it into the final paper that sumamrize some elements of the multilingual aspects of Web2Wiki. 
