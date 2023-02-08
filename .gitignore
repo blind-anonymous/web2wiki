@@ -1,5 +1,7 @@
 data/
 visuals/data/
+playground/wiki_comment_embedding.parquet
+/playground/gs_score.csv
 en-US-10-1.bdic
 spark-warehouse
 old/
@@ -9,4 +11,6 @@ playground/train_data.pkl
 playground/article_metadata.csv
 gs_score.csv
 
+why/iterative_coding/
 
+settings.py
